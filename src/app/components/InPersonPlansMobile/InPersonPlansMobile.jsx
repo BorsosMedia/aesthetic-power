@@ -35,8 +35,8 @@ export function InPersonPlansMobile({ type }) {
           color1='#A90000'
           color2='#3F0000'
           title='30 sessions'
-          price='2249'
-          decimals='97'
+          price='1999'
+          decimals='99'
           description='Tailored for elite athletes competing in physique and strength-related sports.'
           bullets={[
             'Thirty one-hour training sessions in person with me',
