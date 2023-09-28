@@ -32,7 +32,7 @@ export function Footer() {
               className='w-[8rem] lg:w-[18rem] invert'
             />
             {/* company name for medium screens and bigger */}
-            <h3 className='text-center hidden lg:block font-bold'>
+            <h3 className='text-center hidden lg:block font-bold text-[#F1F1F1]'>
               Aesthetic Power LLC
             </h3>
             {/* company name mobile */}
