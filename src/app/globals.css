@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+@font-face {
+  font-family: 'RobotoCondensed';
+  src: url('../../typography/roboto_condensed/RobotoCondensed-Light.ttf');
+  src: url('../../typography/roboto_condensed/RobotoCondensed-Regular.ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HeadlinerNo45';
+  src: url('../../typography/headliner_no_45/HeadlinerNo.45\ DEMO.ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Margarine';
+  src: url('../../typography/margarine/Margarine-Regular.ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+html {
+  overflow-x: hidden;
+  font-size: 62.5%;
+  color: #f1f1f1;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-size: calc(1.5rem + 0.390625vw);
+  overflow-x: hidden;
+}

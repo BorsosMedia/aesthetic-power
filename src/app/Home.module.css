@@ -1,0 +1,34 @@
+.mainBackground {
+  background-image: url('../../public/brick-wall-texture.jpg');
+}
+
+/* MOBILE BACKGROUNDS */
+@media only screen and (max-width: 600px) {
+  .journeyBackground {
+    background-image: url('../../public/home/journey-background-mobile.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+  }
+
+  .storeBackground {
+    background-image: url('../../public/home/home-store-background-mobile.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
+/* BIGGER-THAN-MOBILE BACKGROUNDS */
+@media only screen and (min-width: 600px) {
+  .journeyBackground {
+    background-image: url('../../public/home/journey-background.png');
+    background-size: 100% 80%;
+    background-position: bottom;
+    background-repeat: no-repeat;
+  }
+
+  .storeBackground {
+    background-image: url('../../public/home/home-store-background.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+  }
+}

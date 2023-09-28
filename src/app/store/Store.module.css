@@ -1,0 +1,9 @@
+.mainBackground {
+  background: url('../../../public/brick-wall-texture.jpg');
+}
+
+.wheelsBackground {
+  background: url('../../../public/store/store-bg-2.png');
+  background-size: cover;
+  opacity: 0.3;
+}

@@ -1,0 +1,13 @@
+.mainBackground {
+  background: url('../../../public/brick-wall-texture.jpg');
+}
+
+.overallBackground {
+  background: url('../../../public/contact/contact-bg-2.png');
+}
+
+.mapFrame {
+  background: url('../../../public/contact/map-frame.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}

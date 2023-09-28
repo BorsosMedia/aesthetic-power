@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "./node_modules/standard/eslintrc.json",
+    "next/babel",
+    "next/core-web-vitals"
+  ],
+  "rules": {
+    "space-before-function-paren": "off"
+  }
+}
