@@ -136,8 +136,8 @@ export function Footer() {
           <ExternalLinkFooter
             image={email}
             alt='email'
-            to='mailto:aestheticpowermn@gmail.com'
-            content='aestheticpowermn@gmail.com'
+            to='mailto:info@aestheticpowercoaching.com'
+            content='info@aestheticpowercoaching.com'
             extraClasses='lg:underline'
           />
           {/* LOCATION */}
