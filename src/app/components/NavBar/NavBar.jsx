@@ -36,13 +36,13 @@ export function NavBar() {
               </Button>
             </Link>
           )}
-          <Link href='/cart'>
+          {/* <Link href='/cart'>
             <Button size='sm' variant='ghost'>
               <ShoppingCart className='h-14 w-14' />
               <span className='ml-2 text-h5 font-bold'>{cartCount}</span>
               <span className='sr-only'>Cart</span>
             </Button>
-          </Link>
+          </Link> */}
           {/* <button
             className={`hidden lg:inline w-fit px-4 py-2 uppercase rounded-lg ${styles.buttonBackground}`}
           >

@@ -32,7 +32,7 @@ export function Links({ onClick }) {
           memberships
         </span>
       </Link>
-      <Link onClick={onClick} href='/store'>
+      {/* <Link onClick={onClick} href='/store'>
         <span
           className={`${generalClasses} ${
             pathname === '/store' ? selected : notSelected
@@ -40,7 +40,7 @@ export function Links({ onClick }) {
         >
           store
         </span>
-      </Link>
+      </Link> */}
       <Link onClick={onClick} href='/about'>
         <span
           className={`${generalClasses} ${

@@ -215,8 +215,9 @@ export default function Home() {
         </section>
 
         {/* ********************************************************* CHECK-OUT STORE *********************************************************** */}
+        {/* CHANGE HIDDEN TO FLEX TO SHOW SECTION */}
         <section
-          className={`flex flex-col items-center w-screen py-10 ${styles.storeBackground}`}
+          className={`hidden flex-col items-center w-screen py-10 ${styles.storeBackground}`}
         >
           <h2 className='text-h5 sm:text-h4 md:text-h3'>Check Out My Store!</h2>
           <section className='flex flex-row w-[80%] py-5'>
