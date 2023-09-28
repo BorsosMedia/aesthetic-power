@@ -215,9 +215,8 @@ export default function Home() {
         </section>
 
         {/* ********************************************************* CHECK-OUT STORE *********************************************************** */}
-        {/* CHANGE HIDDEN TO FLEX TO SHOW SECTION */}
-        <section
-          className={`hidden flex-col items-center w-screen py-10 ${styles.storeBackground}`}
+        {/* <section
+          className={`flex flex-col items-center w-screen py-10 ${styles.storeBackground}`}
         >
           <h2 className='text-h5 sm:text-h4 md:text-h3'>Check Out My Store!</h2>
           <section className='flex flex-row w-[80%] py-5'>
@@ -264,8 +263,8 @@ export default function Home() {
                   price: '25'
                 }
               ]}
-            />
-            {/* <CarouselProducts
+            /> */}
+        {/* <CarouselProducts
               products={[
                 {
                   image: product1,
@@ -309,11 +308,11 @@ export default function Home() {
                 }
               ]}
             /> */}
-          </section>
+        {/* </section>
           <button className='uppercase font-headlineFont text-[#333333] bg-gradient-to-b from-[#F1F1F1] to-[#C7C7C7] py-1 px-5 my-5 mx-2 hover:cursor-pointer hover:scale-105 active:scale-95 transition-all ease-in-out duration-300 rounded-sm'>
             <Link href='/store'>See More</Link>
           </button>
-        </section>
+        </section> */}
 
         {/* ********************************************************* SOCIAL MEDIA EMBEDS *********************************************************** */}
 

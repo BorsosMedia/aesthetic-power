@@ -61,14 +61,14 @@ export function Footer() {
                   Memberships
                 </Link>
               </li>
-              <li>
-                {/* <Link
+              {/* <li>
+                <Link
                   href='/store'
                   className={pathname === '/store' ? selected : ''}
                 >
                   Store
-                </Link> */}
-              </li>
+                </Link>
+              </li> */}
               <li>
                 <Link
                   href='/about'
