@@ -20,6 +20,7 @@ export function InPersonPlans({ type }) {
             'Ten one-hour training sessions in person with me',
             'Clients training with me 2 or more times a week will get the online coaching package included'
           ]}
+          to='https://coaching.aestheticpowercoaching.com/ftcip-10s'
         />
 
         {/* <div
@@ -53,6 +54,7 @@ export function InPersonPlans({ type }) {
             'Thirty one-hour training sessions in person with me',
             'Clients training with me 2 or more times a week will get the online coaching package included'
           ]}
+          to='https://coaching.aestheticpowercoaching.com/ftcip-30s'
         />
 
         {/* <div

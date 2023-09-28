@@ -8,7 +8,8 @@ export function PlanCard({
   price,
   decimals,
   description,
-  bullets
+  bullets,
+  to
 }) {
   return (
     <div
@@ -41,7 +42,7 @@ export function PlanCard({
             return <li key={index}>{bullet}</li>
           })}
       </ul>
-      <GrayButton content='sign up' />
+      <GrayButton content='sign up' to={to} />
     </div>
   )
 }

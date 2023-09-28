@@ -8,7 +8,8 @@ export function PlanCardMobile({
   price,
   decimals,
   description,
-  bullets
+  bullets,
+  to
 }) {
   return (
     <section
@@ -32,7 +33,7 @@ export function PlanCardMobile({
           {price}.<span className='text-[0.5em]'>{decimals || '00'}</span>
           <span className='font-mainFont text-[0.25em] uppercase'>/{plan}</span>
         </h3>
-        <GrayButton content='sign up' />
+        <GrayButton content='sign up' to={to} />
       </div>
       <div className='flex flex-col items-end justify-around w-1/2'>
         <ul

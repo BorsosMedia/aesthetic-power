@@ -27,6 +27,7 @@ export function OnlinePlans({ plan, type }) {
             'Weekly check-ins and updates',
             'Access to Discord'
           ]}
+          to='https://coaching.aestheticpowercoaching.com/ftco-s-1m'
         />
 
         {/* <div
@@ -68,6 +69,7 @@ export function OnlinePlans({ plan, type }) {
             'Access to Discord',
             'Contest preparation & guidance'
           ]}
+          to='https://coaching.aestheticpowercoaching.com/ftco-c-1m'
         />
 
         {/* <div
@@ -118,6 +120,7 @@ export function OnlinePlans({ plan, type }) {
             'Weekly check-ins and updates',
             'Access to Discord'
           ]}
+          to='https://coaching.aestheticpowercoaching.com/ftco-s-3m'
         />
 
         {/* <div
@@ -159,6 +162,7 @@ export function OnlinePlans({ plan, type }) {
             'Access to Discord',
             'Contest preparation & guidance'
           ]}
+          to='https://coaching.aestheticpowercoaching.com/ftco-c-3m'
         />
 
         {/* <div
@@ -209,6 +213,7 @@ export function OnlinePlans({ plan, type }) {
             'Weekly check-ins and updates',
             'Access to Discord'
           ]}
+          to='https://coaching.aestheticpowercoaching.com/ftco-s-6m'
         />
 
         {/* <div
@@ -250,6 +255,7 @@ export function OnlinePlans({ plan, type }) {
             'Access to Discord',
             'Contest preparation & guidance'
           ]}
+          to='https://coaching.aestheticpowercoaching.com/ftco-c-6m'
         />
 
         {/* <div
@@ -300,6 +306,7 @@ export function OnlinePlans({ plan, type }) {
             'Weekly check-ins and updates',
             'Access to Discord'
           ]}
+          to='https://coaching.aestheticpowercoaching.com/ftco-s-a'
         />
 
         {/* <div
@@ -341,6 +348,7 @@ export function OnlinePlans({ plan, type }) {
             'Access to Discord',
             'Contest preparation & guidance'
           ]}
+          to='https://coaching.aestheticpowercoaching.com/ftco-c-a'
         />
 
         {/* <div

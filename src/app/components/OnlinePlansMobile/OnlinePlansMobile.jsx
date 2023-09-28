@@ -27,6 +27,7 @@ export function OnlinePlansMobile({ plan, type }) {
             'Weekly check-ins and updates',
             'Access to Discord'
           ]}
+          to='https://coaching.aestheticpowercoaching.com/ftco-s-1m'
         />
 
         {/* COMPETITIVE CARD */}
@@ -46,6 +47,7 @@ export function OnlinePlansMobile({ plan, type }) {
             'Access to Discord',
             'Contest preparation & guidance'
           ]}
+          to='https://coaching.aestheticpowercoaching.com/ftco-c-1m'
         />
       </section>
 
@@ -73,6 +75,7 @@ export function OnlinePlansMobile({ plan, type }) {
             'Weekly check-ins and updates',
             'Access to Discord'
           ]}
+          to='https://coaching.aestheticpowercoaching.com/ftco-s-3m'
         />
 
         {/* COMPETITIVE CARD */}
@@ -92,6 +95,7 @@ export function OnlinePlansMobile({ plan, type }) {
             'Access to Discord',
             'Contest preparation & guidance'
           ]}
+          to='https://coaching.aestheticpowercoaching.com/ftco-c-3m'
         />
       </section>
 
@@ -119,6 +123,7 @@ export function OnlinePlansMobile({ plan, type }) {
             'Weekly check-ins and updates',
             'Access to Discord'
           ]}
+          to='https://coaching.aestheticpowercoaching.com/ftco-s-6m'
         />
 
         {/* COMPETITIVE CARD */}
@@ -138,6 +143,7 @@ export function OnlinePlansMobile({ plan, type }) {
             'Access to Discord',
             'Contest preparation & guidance'
           ]}
+          to='https://coaching.aestheticpowercoaching.com/ftco-c-6m'
         />
       </section>
 
@@ -165,6 +171,7 @@ export function OnlinePlansMobile({ plan, type }) {
             'Weekly check-ins and updates',
             'Access to Discord'
           ]}
+          to='https://coaching.aestheticpowercoaching.com/ftco-s-a'
         />
 
         {/* COMPETITIVE CARD */}
@@ -184,6 +191,7 @@ export function OnlinePlansMobile({ plan, type }) {
             'Access to Discord',
             'Contest preparation & guidance'
           ]}
+          to='https://coaching.aestheticpowercoaching.com/ftco-c-a'
         />
       </section>
     </>
