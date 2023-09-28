@@ -13,7 +13,7 @@ export function InPersonPlans({ type }) {
           color1='#666565'
           color2='#1D1D1D'
           title='10 sessions'
-          price='699'
+          price='749'
           decimals='99'
           description='Perfect for first-timers and individuals seeking to improve their overall fitness.'
           bullets={[
@@ -46,7 +46,7 @@ export function InPersonPlans({ type }) {
           color1='#A90000'
           color2='#3F0000'
           title='30 sessions'
-          price='1749'
+          price='2249'
           decimals='97'
           description='Tailored for elite athletes competing in physique and strength-related sports.'
           bullets={[
