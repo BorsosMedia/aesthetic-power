@@ -37,7 +37,7 @@ export default function Home() {
       {/* ********************************************************* BANNER *********************************************************** */}
       <article className='relative text-center'>
         <Image src={banner} alt='Home Banner' className='bg-cover' />
-        <div className='text-h5 md:text-banner font-headlineFont w-full h-full absolute top-0 left-0 flex flex-row justify-start items-center px-xxxl md:px-[10vw] py-half md:py-[2.5vw]'>
+        <div className='text-h2 md:text-banner font-headlineFont w-full h-full absolute top-0 left-0 flex flex-row justify-start items-center px-xxxl md:px-[10vw] py-half md:py-[2.5vw]'>
           <h1 className='leading-none text-left'>Find The Pain</h1>
         </div>
       </article>
