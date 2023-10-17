@@ -95,7 +95,12 @@ export function Footer() {
               </li>
               {/* legal and privacy policy for medium screens and bigger added here for styling purposes */}
               <li className='underline text-[#A8B0B6] text-[0.8em] text-right pt-10'>
-                Legal and Privacy Policy
+                <Link
+                  href='https://coaching.aestheticpowercoaching.com/legal-and-privacy-policy'
+                  target='_blank'
+                >
+                  Legal and Privacy Policy
+                </Link>
               </li>
             </ul>
           </section>
