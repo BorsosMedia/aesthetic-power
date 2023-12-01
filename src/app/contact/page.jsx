@@ -58,8 +58,8 @@ export default function Contact() {
               <ExternalLinkContact
                 image={email}
                 alt='Email'
-                to='mailto:info@aestheticpowercoaching.com'
-                content='info@aestheticpowercoaching.com'
+                to='mailto:henry@aestheticpowercoaching.com'
+                content='henry@aestheticpowercoaching.com'
               />
             </div>
             {/* LOCATION */}
