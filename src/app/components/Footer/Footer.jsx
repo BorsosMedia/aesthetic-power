@@ -166,8 +166,8 @@ export function Footer() {
       <article className='text-[#A8B0B6] text-center text-[0.6em] py-full'>
         <p className='underline pb-2 lg:hidden'>Legal and Privacy Policy</p>
         <h4>
-          Copyright © 2023 - All Rights Reserved {width <= 640 ? <br /> : '/'}{' '}
-          Website Developed and Designed by{' '}
+          Copyright © {new Date().getFullYear()} - All Rights Reserved{' '}
+          {width <= 640 ? <br /> : '/'} Website Developed and Designed by{' '}
           <a
             href='https://www.borsosmedia.com'
             target='_blank'
